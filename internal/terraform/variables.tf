@@ -1,6 +1,6 @@
 variable "account_id" {
   type    = string
-  default = "Ompd5rAMSfq97LoZsErwnQ"
+  default = "25NKDX79QPC-YTyninmxRQ"
 }
 
 variable "admins" {
