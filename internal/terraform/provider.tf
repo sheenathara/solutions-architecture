@@ -35,4 +35,5 @@ provider "azurerm" {
 
 provider "harness" {
   account_id = var.account_id
+  endpoint   = "https://qa.harness.io/gateway"
 }
